@@ -5,6 +5,13 @@ body{
 svg {
     fill: #0d6d78; 
 }
+#theme-title{
+    position: absolute;
+    top: 5vh;
+    left: 45%;
+    color: white;
+    padding: ;
+}
 .one{
     text-align: left;
 }
