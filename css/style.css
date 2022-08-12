@@ -1,3 +1,7 @@
+body{
+    margin: 0;
+    padding: 0;
+}
 svg {
     fill: #0d6d78; 
 }
