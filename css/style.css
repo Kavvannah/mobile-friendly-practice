@@ -1,6 +1,9 @@
-.content{
-
+.one{
+    text-align: left;
+}
+.two{
+    text-align: right;
 }
 .section-title{
-    
+    color: #0d6d78;
 }
